@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Rubik&display=swap');
+
+
+.landing {
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  min-width: 100%;
+  color: white;
+  display: 'flex';
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 7em;
+  margin-bottom: -10px;
+}
+
+h2 {
+  margin-bottom: 30px;
+  font-family: "Rubik", sans-serif;
+}
